@@ -75,12 +75,6 @@ footer {
 </head>
 
 <body>
-
-<header>
-    <h1>IN BEAUTY 💕</h1>
-    <p>Where Beauty Meets Power</p>
-</header>
-
 <nav>
     <a href="#home">Home</a>
     <a href="#products">Products</a>
@@ -122,10 +116,6 @@ footer {
 
 </body>
 </html>
-<header>
-    <h1>IN BEAUTY 💕</h1>
-    <p>Where Beauty Meets Power</p>
-</header>
 <header>
     <img src="IMG-20260403-WA0044.jpg" alt="IN BEAUTY Logo" style="width:100px;">
     <h1>IN BEAUTY</h1>
