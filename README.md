@@ -122,3 +122,7 @@ footer {
 
 </body>
 </html>
+<header>
+    <h1>IN BEAUTY 💕</h1>
+    <p>Where Beauty Meets Power</p>
+</header>
