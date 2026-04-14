@@ -4,6 +4,18 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>IN BEAUTY</title>
+<header>
+    <img src="IMG-20260403-WA0044.jpg" alt="IN Beauty Logo" class="logo">
+    <h1>IN BEAUTY 💕</h1>
+    <p>Where Beauty Meets Power</p>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Products</a>
+        <a href="#">Contact</a>
+    </nav>
+</header>
+
 
 <style>
 body {
@@ -116,14 +128,3 @@ footer {
 
 </body>
 </html> 
-<header>
-    <img src="IMG-20260403-WA0044.jpg" alt="IN Beauty Logo" class="logo">
-    <h1>IN BEAUTY 💕</h1>
-    <p>Where Beauty Meets Power</p>
-
-    <nav>
-        <a href="#">Home</a>
-        <a href="#">Products</a>
-        <a href="#">Contact</a>
-    </nav>
-</header>
