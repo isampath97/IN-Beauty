@@ -127,7 +127,7 @@ footer {
     <p>Where Beauty Meets Power</p>
 </header>
 <header>
-    <img src="" alt="IN BEAUTY Logo" style="width:100px;">
+    <img src="IMG-20260414-WA0008.jpg" alt="IN BEAUTY Logo" style="width:100px;">
     <h1>IN BEAUTY</h1>
     <p>Where Beauty Meets Power</p>
 </header>
