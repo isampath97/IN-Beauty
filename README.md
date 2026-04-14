@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>IN BEAUTY</title>
 <header>
     <img src="IMG-20260403-WA0044.jpg" alt="IN Beauty Logo" class="logo">
     <h1>IN BEAUTY 💕</h1>
