@@ -115,9 +115,15 @@ footer {
 </footer>
 
 </body>
-</html>
+</html> 
 <header>
-    <img src="IMG-20260403-WA0044.jpg" alt="IN BEAUTY Logo" style="width:100px;">
-    <h1>IN BEAUTY</h1>
+    <img src="IMG-20260403-WA0044.jpg" alt="IN Beauty Logo" class="logo">
+    <h1>IN BEAUTY 💕</h1>
     <p>Where Beauty Meets Power</p>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Products</a>
+        <a href="#">Contact</a>
+    </nav>
 </header>
