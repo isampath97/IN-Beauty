@@ -8,6 +8,50 @@
     <h1>IN BEAUTY 💕</h1>
     <p>Where Beauty Meets Power</p>
 </header>
+
+<style>
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #ffe6f0;
+    color: #333;
+}
+
+/* Header style */
+header {
+    background: linear-gradient(135deg, #ff66a3, #ff3385);
+    color: white;
+    text-align: center;
+    padding: 25px 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+/* Logo style */
+.logo {
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid white;
+    margin-bottom: 10px;
+}
+
+/* Title */
+h1 {
+    margin: 5px 0;
+    font-size: 26px;
+    letter-spacing: 1px;
+}
+
+/* Subtitle */
+p {
+    margin: 0;
+    font-size: 14px;
+    opacity: 0.9;
+}
+</style>
 <style>
 body {
     margin: 0;
